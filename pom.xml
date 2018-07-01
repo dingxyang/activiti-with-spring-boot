@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dxy.activitivi</groupId>
-    <artifactId>activitivi-demo2</artifactId>
+    <artifactId>activitivi-with-spring-boot</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>
